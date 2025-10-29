@@ -1,4 +1,4 @@
-````
+
 Install dependencies via:
 ```bash
 pip install torch nltk pandas scikit-learn seaborn matplotlib
@@ -107,7 +107,5 @@ class-4 0.1000
 
 -   Ensure GPU is available for faster training (code auto-detects device).
 
-```
 
-```
 
