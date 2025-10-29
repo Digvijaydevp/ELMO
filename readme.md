@@ -1,15 +1,4 @@
 ````
-# Assignment 4: ELMo
-
-## Dependencies
-- Python 3.6+
-- PyTorch (tested with 1.12.1)
-- `nltk`
-- `pandas`
-- `scikit-learn`
-- `seaborn`
-- `matplotlib`
-
 Install dependencies via:
 ```bash
 pip install torch nltk pandas scikit-learn seaborn matplotlib
@@ -121,3 +110,4 @@ class-4 0.1000
 ```
 
 ```
+
